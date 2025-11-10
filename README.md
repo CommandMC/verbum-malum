@@ -17,3 +17,11 @@ List of malicious phishing domains prominently spread through Discord
    Follow GitHub's tutorial on creating PRs here:
    - [Text form](<https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request>)
    - [Video form](<https://youtu.be/nCKdihvneS0>)
+
+### Plot registrars
+
+For an example on interpreting the data in this repository, the `meta/graph.py` script is provided. It plots the number
+of malicious domains registered by each registrar
+To run it:
+1. Install the `seaborn` package (`pip install seaborn`)
+2. In the project root directory, run `python meta/graph.py`
