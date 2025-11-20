@@ -1,0 +1,307 @@
+{
+  "entities": [
+    {
+      "entities": [
+        {
+          "handle": "ABUSE-1479",
+          "lang": "en",
+          "objectClassName": "entity",
+          "remarks": [],
+          "roles": [
+            "abuse"
+          ],
+          "status": [],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "NameSilo Abuse Contact"
+              ],
+              [
+                "org",
+                {},
+                "text",
+                "NameSilo, LLC"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.480.524.0066"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@namesilo.com"
+              ]
+            ]
+          ]
+        }
+      ],
+      "handle": "1479",
+      "lang": "en",
+      "links": [
+        {
+          "href": "https://www.namesilo.com/",
+          "rel": "about",
+          "value": "https://rdap.namesilo.com/"
+        }
+      ],
+      "objectClassName": "entity",
+      "publicIds": [
+        {
+          "identifier": "1479",
+          "type": "IANA Registrar ID"
+        }
+      ],
+      "remarks": [],
+      "roles": [
+        "registrar"
+      ],
+      "status": [],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "NameSilo, LLC"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "NameSilo, LLC"
+          ],
+          [
+            "adr",
+            {
+              "cc": "US",
+              "type": "work"
+            },
+            "text",
+            [
+              "",
+              "",
+              "390 NE 191st St STE 8437",
+              "Miami",
+              "FL",
+              "33179",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+1.888.462.6950"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "support@namesilo.com"
+          ],
+          [
+            "url",
+            {},
+            "uri",
+            "https://www.namesilo.com"
+          ]
+        ]
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2025-10-26T00:00:00Z"
+    },
+    {
+      "eventAction": "registrar expiration",
+      "eventDate": "2026-10-26T00:00:00Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-11-15T11:04:25Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-11-20T19:37:46Z"
+    }
+  ],
+  "handle": "fc8646614cc843629f0b27c92c0303a1-DONUTS",
+  "lang": "en",
+  "ldhName": "quasar.casino",
+  "links": [
+    {
+      "href": "https://rdap.namesilo.com/domain/quasar.casino",
+      "rel": "self",
+      "value": "https://rdap.namesilo.com/domain/quasar.casino"
+    }
+  ],
+  "nameservers": [
+    {
+      "ldhName": "joan.ns.cloudflare.com",
+      "objectClassName": "nameserver"
+    },
+    {
+      "ldhName": "thaddeus.ns.cloudflare.com",
+      "objectClassName": "nameserver"
+    }
+  ],
+  "notices": [
+    {
+      "description": [
+        "By accessing and using this data, you agree to the Terms of Use available at https://www.namesilo.com/support/v2/articles/general-terms/rdap"
+      ],
+      "links": [
+        {
+          "href": "https://www.namesilo.com/support/v2/articles/general-terms/rdap",
+          "rel": "terms-of-service",
+          "type": "text/html",
+          "value": "https://rdap.namesilo.com/domain/quasar.casino"
+        }
+      ],
+      "title": "Terms of Use"
+    },
+    {
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "href": "https://icann.org/epp",
+          "rel": "glossary",
+          "type": "text/html",
+          "value": "https://rdap.namesilo.com/domain/quasar.casino"
+        }
+      ],
+      "title": "Status Codes"
+    },
+    {
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "href": "https://icann.org/wicf",
+          "rel": "help",
+          "type": "text/html",
+          "value": "https://rdap.namesilo.com/domain/quasar.casino"
+        }
+      ],
+      "title": "RDDS Inaccuracy Complaint Form"
+    }
+  ],
+  "objectClassName": "domain",
+  "port43": "whois.namesilo.com",
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_0",
+    "icann_rdap_response_profile_1",
+    "redacted"
+  ],
+  "redacted": [
+    {
+      "method": "replacementValue",
+      "name": {
+        "description": "Registrar Name"
+      },
+      "pathLang": "jsonpath",
+      "postPath": "$.entities[0].vcardArray[1][?(@[0]=='fn')][3]",
+      "reason": {
+        "description": "Client request"
+      },
+      "replacementPath": "$.entities[0].vcardArray[1][?(@[0]=='fn')][3]"
+    },
+    {
+      "method": "replacementValue",
+      "name": {
+        "description": "Registrar Email"
+      },
+      "pathLang": "jsonpath",
+      "postPath": "$.entities[0].vcardArray[1][?(@[0]=='email')]",
+      "reason": {
+        "description": "Client request"
+      },
+      "replacementPath": "$.entities[0].vcardArray[1][?(@[0]=='email')]"
+    },
+    {
+      "method": "replacementValue",
+      "name": {
+        "description": "Registrar Phone"
+      },
+      "pathLang": "jsonpath",
+      "postPath": "$.entities[0].vcardArray[1][?(@[1].type=='voice')]",
+      "reason": {
+        "description": "Client request"
+      }
+    },
+    {
+      "method": "emptyValue",
+      "name": {
+        "description": "Registrar Fax"
+      },
+      "pathLang": "jsonpath",
+      "postPath": "$.entities[0].vcardArray[1][?(@[1].type=='fax')]",
+      "reason": {
+        "description": "Client request"
+      }
+    },
+    {
+      "method": "replacementValue",
+      "name": {
+        "description": "Registrar Address"
+      },
+      "pathLang": "jsonpath",
+      "postPath": "$.entities[0].vcardArray[1][?(@[0]=='adr')][3]",
+      "reason": {
+        "description": "Client request"
+      },
+      "replacementPath": "$.entities[0].vcardArray[1][?(@[0]=='adr')][3]"
+    },
+    {
+      "method": "replacementValue",
+      "name": {
+        "description": "Registrar Organization"
+      },
+      "pathLang": "jsonpath",
+      "postPath": "$.entities[0].vcardArray[1][?(@[0]=='org')]",
+      "reason": {
+        "description": "Client request"
+      },
+      "replacementPath": "$.entities[0].vcardArray[1][?(@[0]=='org')]"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "status": [
+    "client hold",
+    "client transfer prohibited"
+  ]
+}
