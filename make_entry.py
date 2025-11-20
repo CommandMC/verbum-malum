@@ -65,7 +65,7 @@ def get_tld_rdap_server(tld: str) -> str:
     for service in dns_entries.get("services"):
         supported_tlds, service_urls = service
         if any(filter(lambda x: x == tld, supported_tlds)):
-            return service_urls[0]
+            return service_urls[0].rstrip("/")
     raise ValueError(f'No RDAP server found for TLD "{tld}"')
 
 
