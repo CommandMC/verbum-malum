@@ -1,0 +1,459 @@
+{
+  "entities": [
+    {
+      "handle": "131786526",
+      "lang": "en",
+      "objectClassName": "entity",
+      "roles": [
+        "technical"
+      ],
+      "status": [
+        "active"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "individual"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Domain Admin"
+          ],
+          [
+            "org",
+            {
+              "type": "work"
+            },
+            "text",
+            "Whoisprotection.cc"
+          ],
+          [
+            "adr",
+            {
+              "cc": "MY"
+            },
+            "text",
+            [
+              "",
+              "",
+              [
+                "",
+                "",
+                "L4-E-2, Level 4, Enterprise 4  Technology Park Malaysia"
+              ],
+              "Kuala Lumpur",
+              "Wilayah Persekutuan",
+              "57000",
+              ""
+            ]
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "compliance_abuse@webnic.cc"
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+60.389966788"
+          ],
+          [
+            "tel",
+            {
+              "type": "fax"
+            },
+            "uri",
+            "tel:+60.389966788"
+          ]
+        ]
+      ]
+    },
+    {
+      "handle": "131786522",
+      "lang": "en",
+      "objectClassName": "entity",
+      "roles": [
+        "administrative"
+      ],
+      "status": [
+        "active"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "individual"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Domain Admin"
+          ],
+          [
+            "org",
+            {
+              "type": "work"
+            },
+            "text",
+            "Whoisprotection.cc"
+          ],
+          [
+            "adr",
+            {
+              "cc": "MY"
+            },
+            "text",
+            [
+              "",
+              "",
+              [
+                "",
+                "",
+                "L4-E-2, Level 4, Enterprise 4  Technology Park Malaysia"
+              ],
+              "Kuala Lumpur",
+              "Wilayah Persekutuan",
+              "57000",
+              ""
+            ]
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "compliance_abuse@webnic.cc"
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+60.389966788"
+          ],
+          [
+            "tel",
+            {
+              "type": "fax"
+            },
+            "uri",
+            "tel:+60.389966788"
+          ]
+        ]
+      ]
+    },
+    {
+      "handle": "131786517",
+      "lang": "en",
+      "objectClassName": "entity",
+      "roles": [
+        "registrant"
+      ],
+      "status": [
+        "active"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "individual"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Domain Admin"
+          ],
+          [
+            "org",
+            {
+              "type": "work"
+            },
+            "text",
+            "REDACTED FOR PRIVACY"
+          ],
+          [
+            "adr",
+            {
+              "cc": "MY"
+            },
+            "text",
+            [
+              "",
+              "",
+              [
+                "",
+                "",
+                "L4-E-2, Level 4, Enterprise 4  Technology Park Malaysia"
+              ],
+              "Kuala Lumpur",
+              "Wilayah Persekutuan",
+              "57000",
+              ""
+            ]
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "compliance_abuse@webnic.cc"
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+60.389966788"
+          ],
+          [
+            "tel",
+            {
+              "type": "fax"
+            },
+            "uri",
+            "tel:+60.389966788"
+          ]
+        ]
+      ]
+    },
+    {
+      "entities": [
+        {
+          "lang": "en",
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "status": [
+            "active"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "org",
+                {},
+                "text",
+                "MAT BAO CORPORATION"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "text",
+                "tel:+84-36229999 EXT :8899"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@matbao.com"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "MAT BAO CORPORATION"
+              ]
+            ]
+          ]
+        }
+      ],
+      "handle": "1586",
+      "lang": "en",
+      "links": [
+        {
+          "href": "https://www.matbao.net",
+          "rel": "about",
+          "type": "application/rdap+json",
+          "value": "https://rdapserver.net/"
+        }
+      ],
+      "objectClassName": "entity",
+      "publicIds": [
+        {
+          "identifier": "1586",
+          "type": "IANA Registrar ID"
+        }
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "status": [
+        "active"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "MAT BAO CORPORATION"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "MAT BAO CORPORATION"
+          ]
+        ]
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2025-11-03T18:46:18Z"
+    },
+    {
+      "eventAction": "registrar expiration",
+      "eventDate": "2026-11-03T18:46:18Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-11-03T19:49:33.886381Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-11-26T12:50:19.905Z"
+    }
+  ],
+  "handle": "3035280418_DOMAIN_COM-VRSN",
+  "lang": "en",
+  "ldhName": "deonax.com",
+  "nameservers": [
+    {
+      "lang": "en",
+      "ldhName": "blakely.ns.cloudflare.com",
+      "objectClassName": "nameserver",
+      "status": [
+        "active"
+      ],
+      "unicodeName": "blakely.ns.cloudflare.com"
+    },
+    {
+      "lang": "en",
+      "ldhName": "ganz.ns.cloudflare.com",
+      "objectClassName": "nameserver",
+      "status": [
+        "active"
+      ],
+      "unicodeName": "ganz.ns.cloudflare.com"
+    }
+  ],
+  "notices": [
+    {
+      "description": [
+        "The contact information for one or more entities associated with this domain has been redacted in accordance with the entity's disclosure preferences."
+      ],
+      "title": "Data Policy",
+      "type": "object truncated due to authorization"
+    },
+    {
+      "description": [
+        "URL for Terms of Use https://rdapserver.net/terms-of-use/"
+      ],
+      "links": [
+        {
+          "href": "https://rdapserver.net/terms-of-use/",
+          "rel": "terms-of-service",
+          "type": "application/rdap+json",
+          "value": "https://rdapserver.net/domain/DEONAX.COM"
+        }
+      ],
+      "title": "Terms of Use"
+    },
+    {
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "href": "https://icann.org/epp",
+          "rel": "glossary",
+          "type": "application/rdap+json",
+          "value": "https://rdapserver.net/domain/DEONAX.COM"
+        }
+      ],
+      "title": "Status Codes"
+    },
+    {
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "href": "https://icann.org/wicf",
+          "rel": "help",
+          "type": "application/rdap+json",
+          "value": "https://rdapserver.net/domain/DEONAX.COM"
+        }
+      ],
+      "title": "RDDS Inaccuracy Complaint Form"
+    }
+  ],
+  "objectClassName": "domain",
+  "rdapConformance": [
+    "icann_rdap_response_profile_1",
+    "icann_rdap_technical_implementation_guide_1",
+    "rdap_level_0",
+    "redacted"
+  ],
+  "redacted": [],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "status": [
+    "client transfer prohibited"
+  ]
+}
