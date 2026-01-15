@@ -1,0 +1,226 @@
+{
+  "entities": [
+    {
+      "handle": "1300165_CONTACT",
+      "objectClassName": "entity",
+      "remarks": [
+        {
+          "description": [
+            "Some of the data in this object has been removed."
+          ],
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization"
+        }
+      ],
+      "roles": [
+        "registrant",
+        "administrative",
+        "technical",
+        "billing"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "REDACTED FOR PRIVACY"
+          ],
+          [
+            "adr",
+            {
+              "type": "work"
+            },
+            "text",
+            [
+              "",
+              "",
+              "REDACTED FOR PRIVACY",
+              "REDACTED FOR PRIVACY",
+              "Moscow",
+              "REDACTED FOR PRIVACY",
+              "RU"
+            ]
+          ],
+          [
+            "email",
+            {
+              "type": "work"
+            },
+            "text",
+            "http://whois.nicenic.net/?page=whoisform"
+          ]
+        ]
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "roles": [
+        "abuse"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "NICENIC INTERNATIONAL GROUP CO., LIMITED"
+          ],
+          [
+            "email",
+            {
+              "type": "work"
+            },
+            "text",
+            "abuse@nicenic.net"
+          ]
+        ]
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "roles": [
+        "registrar"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "NICENIC INTERNATIONAL GROUP CO., LIMITED"
+          ],
+          [
+            "email",
+            {
+              "type": "work"
+            },
+            "text",
+            "support@nicenic.net"
+          ]
+        ]
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2026-01-12T22:35:01Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2027-01-12T22:35:01Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2026-01-12T22:35:01Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2026-01-12T22:35:01Z"
+    }
+  ],
+  "handle": "1939196_DOMAIN",
+  "lang": "en",
+  "ldhName": "kaorax.com",
+  "links": [
+    {
+      "href": "https://rdap.nicenic.net/domain/kaorax.com",
+      "rel": "self",
+      "title": "Authoritative URL for this resource",
+      "value": "https://rdap.nicenic.net/domain/kaorax.com"
+    }
+  ],
+  "nameservers": [
+    {
+      "ldhName": "crystal.ns.cloudflare.com",
+      "objectClassName": "nameserver"
+    },
+    {
+      "ldhName": "evan.ns.cloudflare.com",
+      "objectClassName": "nameserver"
+    }
+  ],
+  "notices": [
+    {
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https://nicenic.net/support/print.php?IDCate=20&IDDoc=803",
+          "rel": "related",
+          "value": "https://nicenic.net/support/print.php?IDCate=20&IDDoc=803"
+        }
+      ],
+      "title": "Terms of Use"
+    },
+    {
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp."
+      ],
+      "links": [
+        {
+          "href": "https://icann.org/epp",
+          "rel": "related",
+          "value": "https://icann.org/epp"
+        }
+      ],
+      "title": "EPP Status Codes"
+    },
+    {
+      "description": [
+        "URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf."
+      ],
+      "links": [
+        {
+          "href": "https://www.icann.org/wicf",
+          "rel": "related",
+          "value": "https://www.icann.org/wicf"
+        }
+      ],
+      "title": "Whois Inaccuracy Complaint Form"
+    }
+  ],
+  "objectClassName": "domain",
+  "port43": "whois.nicenic.net",
+  "publicIds": [
+    {
+      "identifier": "3765",
+      "type": "IANA Registrar ID"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_response_profile_0",
+    "icann_rdap_technical_implementation_guide_0"
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "status": [
+    "client delete prohibited",
+    "client transfer prohibited"
+  ]
+}
