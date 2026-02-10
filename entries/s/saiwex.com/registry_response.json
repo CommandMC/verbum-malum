@@ -1,0 +1,181 @@
+{
+  "entities": [
+    {
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+852.68581004"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@nicenic.net"
+              ]
+            ]
+          ]
+        }
+      ],
+      "handle": "3765",
+      "links": [
+        {
+          "href": "https://nicenic.com/",
+          "rel": "about",
+          "type": "text/html",
+          "value": "https://rdap.nicenic.net/"
+        }
+      ],
+      "objectClassName": "entity",
+      "publicIds": [
+        {
+          "identifier": "3765",
+          "type": "IANA Registrar ID"
+        }
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "NICENIC INTERNATIONAL GROUP CO., LIMITED"
+          ]
+        ]
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2025-12-15T23:24:02Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-12-15T23:24:02Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2026-02-07T00:40:22Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2026-02-10T12:17:18Z"
+    }
+  ],
+  "handle": "3048369108_DOMAIN_COM-VRSN",
+  "ldhName": "SAIWEX.COM",
+  "links": [
+    {
+      "href": "https://rdap.verisign.com/com/v1/domain/SAIWEX.COM",
+      "rel": "self",
+      "type": "application/rdap+json",
+      "value": "https://rdap.verisign.com/com/v1/domain/SAIWEX.COM"
+    },
+    {
+      "href": "https://rdap.nicenic.net/domain/SAIWEX.COM",
+      "rel": "related",
+      "type": "application/rdap+json",
+      "value": "https://rdap.nicenic.net/domain/SAIWEX.COM"
+    }
+  ],
+  "nameservers": [
+    {
+      "ldhName": "DAVID.NS.CLOUDFLARE.COM",
+      "objectClassName": "nameserver"
+    },
+    {
+      "ldhName": "RUTH.NS.CLOUDFLARE.COM",
+      "objectClassName": "nameserver"
+    }
+  ],
+  "notices": [
+    {
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https://www.verisign.com/domain-names/registration-data-access-protocol/terms-service/index.xhtml",
+          "rel": "terms-of-service",
+          "type": "text/html",
+          "value": "https://rdap.verisign.com/com/v1/domain/saiwex.com"
+        }
+      ],
+      "title": "Terms of Service"
+    },
+    {
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "href": "https://icann.org/epp",
+          "type": "text/html"
+        }
+      ],
+      "title": "Status Codes"
+    },
+    {
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "href": "https://icann.org/wicf",
+          "rel": "help",
+          "type": "text/html",
+          "value": "https://rdap.verisign.com/com/v1/domain/saiwex.com"
+        }
+      ],
+      "title": "RDDS Inaccuracy Complaint Form"
+    }
+  ],
+  "objectClassName": "domain",
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "status": [
+    "client delete prohibited",
+    "client hold",
+    "client transfer prohibited"
+  ]
+}
