@@ -92,6 +92,7 @@ def lookup_registrar(links: list) -> Optional[dict]:
             },
         }
 
+        print(f"Looking up {href}...")
         try:
             res = SESSION.get(**request_kwargs)
         except requests.exceptions.SSLError:
