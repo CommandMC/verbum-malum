@@ -1,0 +1,497 @@
+{
+  "entities": [
+    {
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+81.337709199"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@internet.gmo"
+              ]
+            ]
+          ]
+        }
+      ],
+      "handle": "49",
+      "objectClassName": "entity",
+      "publicIds": [
+        {
+          "identifier": "49",
+          "type": "IANA Registrar ID"
+        }
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "GMO Internet, Inc."
+          ]
+        ]
+      ]
+    },
+    {
+      "entities": [
+        {
+          "events": [
+            {
+              "eventAction": "registration",
+              "eventDate": "2026-03-14T20:15:31Z"
+            },
+            {
+              "eventAction": "last changed",
+              "eventDate": "2026-03-15T06:41:04Z"
+            },
+            {
+              "eventAction": "last update of RDAP database",
+              "eventDate": "2026-03-15T10:23:38Z"
+            }
+          ],
+          "handle": "THIN-19CEDFD6AD4",
+          "objectClassName": "entity",
+          "roles": [
+            "administrative"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Whois Privacy Protection Service by onamae.com"
+              ],
+              [
+                "org",
+                {},
+                "text",
+                "Whois Privacy Protection Service by onamae.com"
+              ],
+              [
+                "adr",
+                {
+                  "type": "work"
+                },
+                "text",
+                [
+                  "Cerulean Tower 11F",
+                  "26-1 Sakuragaoka-cho",
+                  "Shibuya-ku",
+                  "Tokyo",
+                  "150-8512",
+                  "JP"
+                ]
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "text",
+                "+81.354562560"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "proxy@whoisprotectservice.com"
+              ]
+            ]
+          ]
+        }
+      ],
+      "objectClassName": "entity"
+    },
+    {
+      "entities": [
+        {
+          "events": [
+            {
+              "eventAction": "registration",
+              "eventDate": "2026-03-14T20:15:31Z"
+            },
+            {
+              "eventAction": "last changed",
+              "eventDate": "2026-03-15T06:41:04Z"
+            },
+            {
+              "eventAction": "last update of RDAP database",
+              "eventDate": "2026-03-15T10:23:38Z"
+            }
+          ],
+          "handle": "THIN-19CEDFD6AE1",
+          "objectClassName": "entity",
+          "roles": [
+            "billing"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Whois Privacy Protection Service by onamae.com"
+              ],
+              [
+                "org",
+                {},
+                "text",
+                "Whois Privacy Protection Service by onamae.com"
+              ],
+              [
+                "adr",
+                {
+                  "type": "work"
+                },
+                "text",
+                [
+                  "Cerulean Tower 11F",
+                  "26-1 Sakuragaoka-cho",
+                  "Shibuya-ku",
+                  "Tokyo",
+                  "150-8512",
+                  "JP"
+                ]
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "text",
+                "+81.354562560"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "proxy@whoisprotectservice.com"
+              ]
+            ]
+          ]
+        }
+      ],
+      "objectClassName": "entity"
+    },
+    {
+      "entities": [
+        {
+          "events": [
+            {
+              "eventAction": "registration",
+              "eventDate": "2026-03-14T20:15:31Z"
+            },
+            {
+              "eventAction": "last changed",
+              "eventDate": "2026-03-15T06:41:04Z"
+            },
+            {
+              "eventAction": "last update of RDAP database",
+              "eventDate": "2026-03-15T10:23:38Z"
+            }
+          ],
+          "handle": "THIN-19CEDFD6ACB",
+          "objectClassName": "entity",
+          "roles": [
+            "registrant"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Whois Privacy Protection Service by onamae.com"
+              ],
+              [
+                "org",
+                {},
+                "text",
+                "Whois Privacy Protection Service by onamae.com"
+              ],
+              [
+                "adr",
+                {
+                  "type": "work"
+                },
+                "text",
+                [
+                  "Cerulean Tower 11F",
+                  "26-1 Sakuragaoka-cho",
+                  "Shibuya-ku",
+                  "Tokyo",
+                  "150-8512",
+                  "JP"
+                ]
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "text",
+                "+81.354562560"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "proxy@whoisprotectservice.com"
+              ]
+            ]
+          ]
+        }
+      ],
+      "objectClassName": "entity"
+    },
+    {
+      "entities": [
+        {
+          "events": [
+            {
+              "eventAction": "registration",
+              "eventDate": "2026-03-14T20:15:31Z"
+            },
+            {
+              "eventAction": "last changed",
+              "eventDate": "2026-03-15T06:41:04Z"
+            },
+            {
+              "eventAction": "last update of RDAP database",
+              "eventDate": "2026-03-15T10:23:38Z"
+            }
+          ],
+          "handle": "THIN-19CEDFD6ADA",
+          "objectClassName": "entity",
+          "roles": [
+            "technical"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Whois Privacy Protection Service by onamae.com"
+              ],
+              [
+                "org",
+                {},
+                "text",
+                "Whois Privacy Protection Service by onamae.com"
+              ],
+              [
+                "adr",
+                {
+                  "type": "work"
+                },
+                "text",
+                [
+                  "Cerulean Tower 11F",
+                  "26-1 Sakuragaoka-cho",
+                  "Shibuya-ku",
+                  "Tokyo",
+                  "150-8512",
+                  "JP"
+                ]
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "text",
+                "+81.354562560"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "proxy@whoisprotectservice.com"
+              ]
+            ]
+          ]
+        }
+      ],
+      "objectClassName": "entity"
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2026-03-14T11:15:34Z"
+    },
+    {
+      "eventAction": "registrar expiration",
+      "eventDate": "2027-03-13T15:00:00Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2026-03-15T06:41:06Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2026-03-15T10:23:38Z"
+    }
+  ],
+  "handle": "3077126444_DOMAIN_COM-VRSN",
+  "ldhName": "voawux.com",
+  "links": [
+    {
+      "href": "https://rdap.gmo-onamae.com/rdap/v1/domain/voawux.com",
+      "rel": "self",
+      "type": "application/rdap+json",
+      "value": "https://rdap.gmo-onamae.com/rdap/v1/domain/voawux.com"
+    }
+  ],
+  "nameservers": [
+    {
+      "ldhName": "harmony.ns.cloudflare.com",
+      "objectClassName": "nameserver"
+    },
+    {
+      "ldhName": "andronicus.ns.cloudflare.com",
+      "objectClassName": "nameserver"
+    }
+  ],
+  "notices": [
+    {
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "href": "https://icann.org/epp",
+          "rel": "alternate",
+          "type": "text/html",
+          "value": "https://icann.org/epp"
+        }
+      ],
+      "title": "Status Codes"
+    },
+    {
+      "description": [
+        "result set truncated due to authorization"
+      ],
+      "title": "Data Policy"
+    },
+    {
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://www.icann.org/wicf/"
+      ],
+      "links": [
+        {
+          "href": "https://www.icann.org/wicf/",
+          "rel": "alternate",
+          "type": "text/html",
+          "value": "https://www.icann.org/wicf/"
+        }
+      ],
+      "title": "RDDS Inaccuracy Complaint Form"
+    },
+    {
+      "description": [
+        "Please query the RDAP service of the Registrar of Record identified in this output for information on how to contact the Registrar, Registrant, Admin, or Tech contact of the queried domain name.",
+        "",
+        "This RDAP service is provided by GMO Internet and only contains information pertaining to Internet domain names we have registered for our customers.",
+        "GMO Internet does not guarantee the accuracy of this data.",
+        "",
+        "By using this service you are agreeing;",
+        "",
+        "(1) only to use the data for lawful purposes.",
+        "(2) not to use any information presented here for any purpose other than determining ownership of domain names.",
+        "..."
+      ],
+      "links": [
+        {
+          "href": "https://rdap.gmo-onamae.com/tos",
+          "rel": "alternate",
+          "type": "text/html",
+          "value": "https://rdap.gmo-onamae.com/tos"
+        }
+      ],
+      "title": "Terms of Service"
+    }
+  ],
+  "objectClassName": "domain",
+  "port43": "whois.discount-domain.com",
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_response_profile_0",
+    "icann_rdap_technical_implementation_guide_0"
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "status": [
+    "validated",
+    "active",
+    "proxy",
+    "transfer prohibited"
+  ]
+}
