@@ -1,0 +1,328 @@
+{
+  "entities": [
+    {
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Abuse Contact"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+65.31581931"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "complaint@gname.com"
+              ]
+            ]
+          ]
+        }
+      ],
+      "handle": "1923",
+      "objectClassName": "entity",
+      "publicIds": [
+        {
+          "identifier": "1923",
+          "type": "IANA Registrar ID"
+        }
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Gname.com Pte. Ltd."
+          ]
+        ]
+      ]
+    },
+    {
+      "handle": "1",
+      "objectClassName": "entity",
+      "remarks": [
+        {
+          "description": [
+            "Some of the data in this object has been removed."
+          ],
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization"
+        }
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Redacted for Privacy"
+          ],
+          [
+            "contact-uri",
+            {},
+            "uri",
+            "https://rdap.gname.com/extra/contact?type=registrant&domain=vyroso777.to"
+          ],
+          [
+            "adr",
+            {
+              "cc": "US"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ]
+    },
+    {
+      "handle": "2",
+      "objectClassName": "entity",
+      "remarks": [
+        {
+          "description": [
+            "Some of the data in this object has been removed."
+          ],
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization"
+        }
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Redacted for Privacy"
+          ],
+          [
+            "contact-uri",
+            {},
+            "uri",
+            "https://rdap.gname.com/extra/contact?type=administrative&domain=vyroso777.to"
+          ],
+          [
+            "adr",
+            {
+              "cc": "US"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ]
+    },
+    {
+      "handle": "3",
+      "objectClassName": "entity",
+      "remarks": [
+        {
+          "description": [
+            "Some of the data in this object has been removed."
+          ],
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization"
+        }
+      ],
+      "roles": [
+        "technical"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Redacted for Privacy"
+          ],
+          [
+            "contact-uri",
+            {},
+            "uri",
+            "https://rdap.gname.com/extra/contact?type=technical&domain=vyroso777.to"
+          ],
+          [
+            "adr",
+            {
+              "cc": "US"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2026-03-13T11:42:18Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2027-03-13T11:42:18Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2026-03-13T11:43:31Z"
+    }
+  ],
+  "handle": "DO_8301c81b9d449343cb944ef215c3df67-TONIC",
+  "ldhName": "VYROSO777.TO",
+  "links": [
+    {
+      "href": "https://rdap.gname.com/domain/vyroso777.to",
+      "rel": "self",
+      "type": "application/rdap+json",
+      "value": "https://rdap.gname.com/domain/vyroso777.to"
+    }
+  ],
+  "nameservers": [
+    {
+      "ldhName": "AMALIA.NS.CLOUDFLARE.COM",
+      "objectClassName": "nameserver"
+    },
+    {
+      "ldhName": "JASON.NS.CLOUDFLARE.COM",
+      "objectClassName": "nameserver"
+    }
+  ],
+  "notices": [
+    {
+      "description": [
+        "URL of the Terms of Use: www.gname.com"
+      ],
+      "links": [
+        {
+          "href": "https://www.gname.com",
+          "rel": "related",
+          "type": "text/html",
+          "value": "https://www.gname.com"
+        }
+      ],
+      "title": "Terms of Use"
+    },
+    {
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "href": "https://icann.org/epp",
+          "rel": "related",
+          "type": "text/html",
+          "value": "https://icann.org/epp"
+        }
+      ],
+      "title": "Status Codes"
+    },
+    {
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "href": "https://icann.org/wicf",
+          "rel": "related",
+          "type": "text/html",
+          "value": "https://icann.org/wicf"
+        }
+      ],
+      "title": "RDDS Inaccuracy Complaint Form"
+    }
+  ],
+  "objectClassName": "domain",
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_0",
+    "icann_rdap_response_profile_0"
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "status": [
+    "client transfer prohibited"
+  ]
+}
